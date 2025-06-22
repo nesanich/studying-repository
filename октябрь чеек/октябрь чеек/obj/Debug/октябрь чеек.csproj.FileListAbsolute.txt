@@ -1,0 +1,25 @@
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\октябрь чеек.exe.config
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\октябрь чеек.exe
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\октябрь чеек.pdb
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь чеек.csproj.AssemblyReference.cache
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь_чеек.Properties.Resources.resources
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь чеек.csproj.GenerateResource.cache
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь чеек.csproj.CoreCompileInputs.cache
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь чеек.csproj.CopyComplete
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь чеек.exe
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь чеек.pdb
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь_чеек.main.resources
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь_чеек.tarifs.resources
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\EntityFramework.dll
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\System.Data.SQLite.dll
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\EntityFramework.xml
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\bin\Debug\System.Data.SQLite.xml
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь_чеек.ad_contract.resources
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь_чеек.client.resources
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь_чеек.contract.resources
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь_чеек.employee.resources
+C:\Users\sonicofan\source\repos\октябрь чеек\октябрь чеек\obj\Debug\октябрь_чеек.statistic.resources
