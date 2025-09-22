@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonicofan\\source\\repos\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\model\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\customdateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\customdateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\controllers\\guestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|c:\\users\\sonicofan\\source\\repos\\practice\\practice\\controllers\\roomtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E739B9-4342-4F9C-B282-E91BE433FCB4}|practice\\practice.csproj|solutionrelative:practice\\controllers\\roomtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\appsettings.json",
+              "RelativeDocumentMoniker": "practice\\appsettings.json",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\appsettings.json",
+              "RelativeToolTip": "practice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T10:50:50.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "practice\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "practice\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T20:59:08.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomDateConverter.cs",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\CustomDateConverter.cs",
+              "RelativeDocumentMoniker": "practice\\CustomDateConverter.cs",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\CustomDateConverter.cs",
+              "RelativeToolTip": "practice\\CustomDateConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:49:50.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "practice\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "practice\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:37:38.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "practice\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "practice\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:27:37.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Model\\Models.cs",
+              "RelativeDocumentMoniker": "practice\\Model\\Models.cs",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Model\\Models.cs",
+              "RelativeToolTip": "practice\\Model\\Models.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwHcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:18:34.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestsController.cs",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Controllers\\GuestsController.cs",
+              "RelativeDocumentMoniker": "practice\\Controllers\\GuestsController.cs",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Controllers\\GuestsController.cs",
+              "RelativeToolTip": "practice\\Controllers\\GuestsController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:04:06.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Program.cs",
+              "RelativeDocumentMoniker": "practice\\Program.cs",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Program.cs",
+              "RelativeToolTip": "practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:14:31.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Controllers\\RoomTypesController.cs",
+              "RelativeDocumentMoniker": "practice\\Controllers\\RoomTypesController.cs",
+              "ToolTip": "C:\\Users\\sonicofan\\source\\repos\\practice\\practice\\Controllers\\RoomTypesController.cs",
+              "RelativeToolTip": "practice\\Controllers\\RoomTypesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:02:45.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
